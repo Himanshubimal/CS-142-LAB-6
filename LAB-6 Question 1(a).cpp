@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int bsearch(int arr[], int num, int left, int right)
